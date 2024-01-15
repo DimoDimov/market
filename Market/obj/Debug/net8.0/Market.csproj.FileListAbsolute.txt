@@ -1,0 +1,15 @@
+/Users/admin/projects/2024/Market/Market/bin/Debug/net8.0/Market
+/Users/admin/projects/2024/Market/Market/bin/Debug/net8.0/Market.deps.json
+/Users/admin/projects/2024/Market/Market/bin/Debug/net8.0/Market.runtimeconfig.json
+/Users/admin/projects/2024/Market/Market/bin/Debug/net8.0/Market.dll
+/Users/admin/projects/2024/Market/Market/bin/Debug/net8.0/Market.pdb
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.AssemblyInfoInputs.cache
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.AssemblyInfo.cs
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.csproj.CoreCompileInputs.cache
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.sourcelink.json
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.dll
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/refint/Market.dll
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.pdb
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/Market.genruntimeconfig.cache
+/Users/admin/projects/2024/Market/Market/obj/Debug/net8.0/ref/Market.dll

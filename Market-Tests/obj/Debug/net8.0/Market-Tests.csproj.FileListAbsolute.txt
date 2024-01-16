@@ -98,3 +98,9 @@
 /Users/admin/projects/2024/Market/Market-Tests/obj/Debug/net8.0/Market-Tests.pdb
 /Users/admin/projects/2024/Market/Market-Tests/obj/Debug/net8.0/Market-Tests.genruntimeconfig.cache
 /Users/admin/projects/2024/Market/Market-Tests/obj/Debug/net8.0/ref/Market-Tests.dll
+/Users/admin/projects/2024/Market/Market-Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Market-Tests
+/Users/admin/projects/2024/Market/Market-Tests/bin/Debug/net8.0/Market.deps.json
+/Users/admin/projects/2024/Market/Market-Tests/bin/Debug/net8.0/Market.runtimeconfig.json
+/Users/admin/projects/2024/Market/Market-Tests/bin/Debug/net8.0/Market
+/Users/admin/projects/2024/Market/Market-Tests/bin/Debug/net8.0/Market.dll
+/Users/admin/projects/2024/Market/Market-Tests/bin/Debug/net8.0/Market.pdb
